@@ -59,7 +59,7 @@ var render = function render() {
         React.createElement(
             'button',
             { type: 'button', className: 'btn btn-outline-danger', 'data-toggle': 'modal', 'data-target': '#exampleModalCenter' },
-            'Remove all option'
+            'Remove all options'
         ),
         React.createElement(
             'div',
